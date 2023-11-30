@@ -9,6 +9,6 @@ entries:
     name: static-app
     type: application
     urls:
-    - https://github.com/navonron/helm/static-app-0.1.0.tgz
+    - static-app-0.1.0.tgz
     version: 0.1.0
 generated: "2023-11-30T13:46:01.4332503+02:00"
